@@ -1,5 +1,5 @@
 package myapp;
 
 public class Z {
-    public int number;
+    public int num;
 }
