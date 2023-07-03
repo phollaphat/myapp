@@ -2,6 +2,7 @@ package myapp;
 
 public class Cat {
     public String name;
+    public String eyecolor;
 
     public Cat(String name) {
         this.name = name;
